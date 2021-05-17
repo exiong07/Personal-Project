@@ -1,5 +1,6 @@
 import React from "react";
 import FishSpotter from "../../Images/FishSpotter.png";
+import "./Logo.css";
 
 export default function Logo() {
   return (
