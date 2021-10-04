@@ -41,17 +41,7 @@ export default function Home() {
               paddingLeft: "8%",
             }}
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci
-            odio, convallis ornare est eu, accumsan sagittis nibh. Praesent
-            consequat, lectus vel lacinia facilisis, magna risus sagittis ipsum,
-            finibus tincidunt neque odio in felis. Nam bibendum ligula turpis,
-            ac lacinia lectus congue quis. Sed laoreet fermentum cursus. Aliquam
-            ex risus, aliquam vitae tempor pretium, sodales vitae leo. Sed
-            hendrerit sem metus, at ultrices felis sodales et. Phasellus
-            tristique odio eu tellus malesuada efficitur. Aenean porta rhoncus
-            massa, eu tincidunt lectus sollicitudin et. Aliquam lacus ante,
-            viverra dignissim fringilla ut, tincidunt sit amet dui. Vestibulum
-            blandit nulla a sapien scelerisque, non venenatis ligula dapibus.
+            This is a test for Angel 😁
           </p>
           <p
             style={{
